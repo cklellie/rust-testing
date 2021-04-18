@@ -1,5 +1,6 @@
 [workspace]
 members = [
-"hello-rust",
-"regex-example"
+    "hello-rust",
+    "regex-example",
+    "guessing-game"
 ]
