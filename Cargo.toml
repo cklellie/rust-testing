@@ -1,0 +1,5 @@
+[workspace]
+members = [
+"hello-rust",
+"regex-example"
+]
