@@ -2,5 +2,6 @@
 members = [
     "hello-rust",
     "regex-example",
-    "guessing-game"
+    "guessing-game",
+    "variables"
 ]
