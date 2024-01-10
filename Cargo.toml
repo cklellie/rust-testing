@@ -3,5 +3,6 @@ members = [
     "hello-rust",
     "regex-example",
     "guessing-game",
-    "variables"
+    "variables",
+    "datatype"
 ]
