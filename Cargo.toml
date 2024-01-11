@@ -4,5 +4,6 @@ members = [
     "regex-example",
     "guessing-game",
     "variables",
-    "datatype"
+    "datatype",
+    "functions"
 ]
