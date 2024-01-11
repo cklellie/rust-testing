@@ -5,5 +5,6 @@ members = [
     "guessing-game",
     "variables",
     "datatype",
-    "functions"
+    "functions",
+    "branches"
 ]
