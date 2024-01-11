@@ -103,6 +103,7 @@ fn for_looping_collection(){
     }
 }
 
+#[test]
 fn for_loop_with_range(){
     for number in (1..4).rev() {
         println!("{number}!");

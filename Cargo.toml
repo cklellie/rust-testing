@@ -6,5 +6,6 @@ members = [
     "variables",
     "datatype",
     "functions",
-    "branches"
+    "branches",
+    "chapter3_challenges",
 ]
