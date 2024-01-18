@@ -8,4 +8,5 @@ members = [
     "functions",
     "branches",
     "chapter3_challenges",
+    "ownership",
 ]
